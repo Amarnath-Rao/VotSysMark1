@@ -45,8 +45,6 @@ Step 2 - Creating Voting Smart Contract
 npm install solc
 ```
 
-
-
 Step 3 - Testing in node console
 
 Not required just for testing in node console-
@@ -95,21 +93,11 @@ copy address of first account
 $ ganache-cli
 ```
 
-
-
 ### Purpose of test
 
  * The authority login is to ensure security to prevent piracy,harresment and corruption from candidates standing in election.
  * OTP generation is to authenticate the right aadhar card owner.
  * button disabling and automatic logout is to prevent multiple voting by single candidate. 
-
-### Screenshots
-* ![](https://raw.githubusercontent.com/sanattaori/techdot/master/screenshot/1.PNG)
-* ![](https://raw.githubusercontent.com/sanattaori/techdot/master/screenshot/2.PNG)
-* ![](https://raw.githubusercontent.com/sanattaori/techdot/master/screenshot/3.PNG)
-* ![](https://raw.githubusercontent.com/sanattaori/techdot/master/screenshot/4.PNG)
-* ![](https://raw.githubusercontent.com/sanattaori/techdot/master/screenshot/5.PNG)
-* ![](https://raw.githubusercontent.com/sanattaori/techdot/master/screenshot/gan.PNG)
 
 ## Deployment
 
